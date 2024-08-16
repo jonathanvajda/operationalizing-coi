@@ -3,7 +3,7 @@
 ## DoD/IC Ontology Working Group
 ### Operationalizing Ontologies Community of Interest
 
-**Contributors:** Paul Kogut, Don Pellegrino, Jonathan Vaidja, John Beverley, Joe Blankenship, Eric Peterson, Tim Toohill, Jennifer DeCamp, Ali Hasanzedah, John Judkins, Amanda Mitchell
+**Contributors:** Paul Kogut, Don Pellegrino, Jonathan Vajda, John Beverley, Joe Blankenship, Eric Peterson, Tim Toohill, Jennifer DeCamp, Ali Hasanzedah, John Judkins, Amanda Mitchell
 
 ## Introduction
 The goal of the Operationalizing Ontologies COI is to provide guidance on how to apply ontologies in DoD/IC operational systems (e.g., C2, ISR, mission planning, equipment maintenance, logistics) and internal business systems. Current guidance is scattered across many sources and has significant gaps. The intended audience is both non-technical mission-focused personnel and very technical developers. Education of project managers, software architects, and junior software developers is a major barrier to fully leveraging the benefits of ontologies. This document will help DoD/IC software engineers get started in developing applications that leverage ontologies. See the Ontology Applications Patterns document for help in identifying opportunities to insert ontologies into current and future systems.
